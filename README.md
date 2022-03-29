@@ -1,3 +1,3 @@
 # ResposiveAdminDashboard
 
-Att 1.1.0 28/03/2022 (20:55)
+Att 1.2.0 29/03/2022 (19:20)
